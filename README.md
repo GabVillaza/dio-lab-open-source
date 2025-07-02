@@ -91,5 +91,17 @@ GitHub Discussions é um fórum de comunicação colaborativo dentro do GitHub. 
   <img src="https://contrib.rocks/image?repo=digitalinnovationone/dio-lab-open-source"/>
 </a>
 
+---
+
+## 💬 Dica para novos contribuidores
+
+Se você está contribuindo com um projeto open source pela primeira vez, parabéns! 🚀  
+Não se preocupe em fazer algo complexo. O importante é começar, aprender e evoluir.  
+Toda contribuição conta — mesmo a menor delas pode ajudar alguém.  
+A comunidade é feita por pessoas como você!
+
+Contribuidor: [@GabVillaza](https://github.com/GabVillaza) 💙
+
+
 ##
 <div align="center">Feito com 💙 por <a href="https://github.com/elidianaandrade">Eli</a>.</div>
